@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+button {
+  font-size: 1.2rem;
+}
+
+#display {
+  background-color: #222;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  height: 90px;
+}
